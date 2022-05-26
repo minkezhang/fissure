@@ -11,3 +11,5 @@ Project tracker for custom keyboard.
 * thin profile
 * magnetic back (i.e. foldable)
 * magnetic handrests (to pack with keyboard)
+
+Models wll be e.g. jam, tart, sundae, etc.
